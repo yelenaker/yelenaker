@@ -2,7 +2,7 @@
 
 # yelenaker
 
-### Python Backend Developer in progress
+### Python Backend Developer
 
 `Python` · `SQL` · `PostgreSQL` · `Django` · `REST APIs`
 
